@@ -1,0 +1,1 @@
+Developed a fully responsive Netflix clone using HTML, CSS, and JavaScript, featuring a modern layout, intuitive navigation, and sleek design. Emulated Netflix's user interface and aesthetics to deliver a visually appealing and functional web experience across all devices.
